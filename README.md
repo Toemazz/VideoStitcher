@@ -6,7 +6,7 @@ The aim of this project is to horizontally 'stitch' two videos such that the out
 - Feature Extraction
 - Feature Matching
 
-NOTE: I have chosen to use fixed homography for this project. This means the key point detection, feature extraction and feature matching is only done once at the start and the same key points are used for all subsequent video frames. This is to reduce the computation required and should not affect the 'stitching' if the two cameras recording the videos are truly 'fixed'
+**NOTE:** I have chosen to use fixed homography for this project. This means the key point detection, feature extraction and feature matching is only done once at the start and the same key points are used for all subsequent video frames. This is to reduce the computation required and should not affect the 'stitching' if the two cameras recording the videos are truly 'fixed'
 
 ## Software Versions
 - python    `3.6.1`
