@@ -102,3 +102,7 @@ ENV/
 
 # JetBrains
 .idea/
+
+# Folders with Video files (because they are too large in size)
+.videos/
+.output/
