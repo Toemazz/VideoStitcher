@@ -104,5 +104,5 @@ ENV/
 .idea/
 
 # Folders with Video files (because they are too large in size)
-.videos/
-.output/
+videos/
+output/
